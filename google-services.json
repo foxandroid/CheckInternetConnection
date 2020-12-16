@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505847417240",
+    "firebase_url": "https://emailpasswordauthentivation.firebaseio.com",
+    "project_id": "emailpasswordauthentivation",
+    "storage_bucket": "emailpasswordauthentivation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505847417240:android:63dd1cee095535b31f83ed",
+        "android_client_info": {
+          "package_name": "com.example.emailpasswordauthentivation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505847417240-r9ts2e4m3qj96rn3j98a1v1c05t41lcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHRIy7Q7rNPLRfIx3g2wxV524Fr80HIiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505847417240-r9ts2e4m3qj96rn3j98a1v1c05t41lcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

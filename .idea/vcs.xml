@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bottomsheetlayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CloudFirestore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CurrentLocation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EmailPasswordAuthentivation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GithubTut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoogleAuthFirebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MakeDirectory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Navigation_Drawer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProgressBar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QR CODE SCANNER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SaveImageToExternalStorage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShareData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SharedPreferences" vcs="Git" />
+  </component>
+</project>
